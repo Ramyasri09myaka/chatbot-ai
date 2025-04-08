@@ -159,10 +159,3 @@ We welcome contributions to improve MERN Chatbot! Follow these steps to get star
    git push origin feature/YourFeature
    ```
 5. Open a pull request.
-
-##  Authors
-
-- **Abhishek Rajput** - [GitHub](https://github.com/Abhishek-2502)
-- **Aaryan Dhawan** - [GitHub](https://github.com/dhawanaaaryan)
-- **Arnav Jain** - [GitHub](https://github.com/Arnavjain2503)
-- **Gautam Rajhans** - [GitHub](https://github.com/capricode-ui)
